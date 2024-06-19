@@ -1,0 +1,1 @@
+This is a little project I made for a game I play on roblox called Typical Colors 2 to display my inventory. By writing a JSON file inside of the scripts.js file, the user can input the items **name, rarity, category, the unusual name (if it is a unusual), if the item is tradeable or not, as well as a image** for said item.
