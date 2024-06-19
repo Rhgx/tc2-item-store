@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const items = [
+    const items = [ // Here are some items I left from my inventory for you to have a refernce of how to write a item.
     {
         "name": "\".\"",
         "image": "https://static.wikia.nocookie.net/tc2/images/e/e2/Silenced_Pistol.png",
