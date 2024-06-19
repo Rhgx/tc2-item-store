@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Item Store</title>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,200">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <audio id="button-sound" src="http://sndup.net/6c4xm/d"></audio>
+    <div class="quilt-pattern"></div>
+    <button onclick="topFunction()" id="scrollToTopBtn" title="Go to top"><span class="material-symbols-rounded">&#xe5d8;</span></button>
+    <div class="store-container">
+        <div class="header">
+            <div class="store-title-box">
+                <img src="https://i.imgur.com/aT96Fkn.png" alt="Rocks's Item Shop" class="store-title-image">
+            </div>
+            <div class="tabs-box">
+                <div class="tabs">
+                    <div class="tab active" data-category="weapons">Weapons</div>
+                    <div class="tab" data-category="cosmetics">Cosmetics</div>
+                    <div class="tab" data-category="other">Other</div>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div class="search-container">
+            <input type="text" class="search-input" placeholder="Search items...">
+        </div>
+        <div id="weapons" class="item-list active"></div>
+        <div id="cosmetics" class="item-list"></div>
+        <div id="other" class="item-list"></div>
+        <div id="no-items-message" class="no-items-message">
+            No items were found.
+        </div>
+    </div>
+    <div class="audio-player">
+        <audio controls>
+            <source src="https://dl.sndup.net/v553j/muffled_sound.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+    <footer class="footer">
+        <p>Made by Rocks. All item icons belong to the TC2 wiki.</p>
+    </footer>
+    <script src="scripts.js"></script>
+    <script>
+        function topFunction() {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        }
+    </script>
+</body>
+</html>

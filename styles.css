@@ -1,0 +1,334 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-color: #8766c5;
+    color: #ddd;
+    margin: 0;
+    /* background-image: url('https://i.imgur.com/Nk2rDt8.gif');
+    background-repeat: repeat;
+    background-size: auto;
+    height: 100vh; */
+}
+
+.quilt-pattern {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://i.imgur.com/xIV4LlR.png');
+    background-size: 128px 128px;
+    z-index: -1;
+    animation: quilt-animation 10000s linear infinite;
+}
+
+@keyframes quilt-animation {
+    0% {
+        background-position: 0 28500%;
+    }
+
+    100% {
+        background-position: 28500% 0;
+    }
+}
+
+
+.store-container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    z-index: 1;
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0;
+    background-color: #333;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+
+.store-title-box,
+.tabs-box {
+    background-color: #444;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.store-title {
+    font-size: 2.8rem;
+    margin: 0;
+    color: #ddd;
+}
+
+.store-title-image {
+    width: auto;
+    height: 4.7em;
+    /* Adjust the height to your preference, 2em is a typical height for an h1 */
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    /* Center the image horizontally */
+}
+
+.tabs {
+    display: flex;
+}
+
+.tab {
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 1.5rem;
+    transition: background 0.3s, color 0.3s;
+    color: #ddd;
+}
+
+.tab.active {
+    background: #555;
+    color: white;
+    border-radius: 5px;
+}
+
+.tab.pulse {
+    animation: pulse 0.3s ease-in-out;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.search-container {
+    margin-bottom: 20px;
+    width: 100% -20px;
+    background-color: #333;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0 auto 20px;
+    max-width: 1200px;
+}
+
+.search-input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    background-color: #444;
+    color: #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.search-input:focus {
+    outline: none;
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.8);
+}
+
+.item-list {
+    display: none;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+    max-width: 1200px;
+    margin: 0 auto;
+    /* Center the item lists */
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+.item-list.active {
+    display: grid;
+    max-width: 1200px;
+    margin: 20 auto;
+    /* Center the item lists */
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.item {
+    background: #444;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    /* Required for overlay */
+}
+
+.item:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.item .name {
+    font-size: 1.5rem;
+    margin: 10px 0;
+    color: var(--text-color);
+    /* Use CSS variable for text color */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+}
+
+.item .rarity {
+    font-size: 1rem;
+    font-weight: 550;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+}
+
+.item .tag {
+    font-size: 1rem;
+    color: #888;
+    margin-top: 5px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+}
+
+.item .unusual-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.item .tooltip {
+    display: none;
+    position: absolute;
+    top: -48px;
+    /* Adjusted position */
+    left: 50%;
+    /* Center horizontally */
+    transform: translateX(-50%);
+    background: #222;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-size: 0.8rem;
+    white-space: nowrap;
+}
+
+.item:hover .tooltip {
+    display: block;
+}
+
+.no-items-message {
+    display: none;
+    text-align: center;
+    margin-top: 10px;
+    font-size: x-large;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 0, 0, 0.8);
+    /* Red overlay with transparency */
+    color: white;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    /* Ensure it's above the item image */
+}
+
+#scrollToTopBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: #444444;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    border-radius: 50%;
+    width: 70px;
+    /* Adjust size as needed */
+    height: 70px;
+    /* Adjust size as needed */
+    font-size: 25px;
+    font-family: 'Oswald';
+}
+
+#scrollToTopBtn {
+    background-color: #2b2b2b;
+    /* Darker background on hover */
+}
+
+.material-symbols-rounded {
+    font-family: 'Material Symbols Rounded', sans-serif;
+    font-size: 35px;
+    /* Adjust size as needed */
+    line-height: 1;
+    /* Ensure icon is vertically centered */
+}
+
+.audio-player {
+    background-color: #ffffff;
+    /* Background color of the audio player */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    /* Optional: Add a shadow for better visibility */
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: transparent;
+    padding: 10px;
+    z-index: 9999;
+    /* Adjust z-index as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer {
+    background-color: #333;
+    color: #ddd;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+    position: relative;
+    width: 100%;
+    font-size: 1rem;
+}
+
+.footer p {
+    margin: 0;
+    padding: 0;
+}
