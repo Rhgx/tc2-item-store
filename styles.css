@@ -332,3 +332,10 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.twemoji {
+    width: 30px !important; /* Set the desired width */
+    height: 30px !important; /* Set the desired height */
+    border-radius: 0px !important;
+    vertical-align: middle; /* Adjust vertical alignment if needed */
+}
