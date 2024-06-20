@@ -499,6 +499,12 @@
         "category": "weapons"
     },
     {
+        "name": "Strange Brash Burger",
+        "image": "https://static.wikia.nocookie.net/tc2/images/7/75/Brash_Burger.png/revision/latest?cb=20230222151411",
+        "rarity": "Strange",
+        "category": "weapons"
+    },
+    {
         "name": "Strange Broken Sword",
         "image": "https://static.wikia.nocookie.net/tc2/images/b/b7/Broken_Sword.png/revision/latest?cb=20230222145323",
         "rarity": "Strange",
