@@ -493,6 +493,12 @@
         "category": "weapons"
     },
     {
+        "name": "Strange Brash Burger",
+        "image": "https://static.wikia.nocookie.net/tc2/images/7/75/Brash_Burger.png/revision/latest?cb=20230222151411",
+        "rarity": "Strange",
+        "category": "weapons"
+    },
+    {
         "name": "Strange Broken Sword",
         "image": "https://static.wikia.nocookie.net/tc2/images/b/b7/Broken_Sword.png/revision/latest?cb=20230222145323",
         "rarity": "Strange",
@@ -926,6 +932,20 @@
         "image": "https://static.wikia.nocookie.net/tc2/images/7/7c/Wrench.png/revision/latest?cb=20180827130138",
         "rarity": "Strange",
         "category": "weapons"
+    },
+    {
+        "name": "Strange Disciplinary Action",
+        "image": "https://static.wikia.nocookie.net/tc2/images/2/2f/Disciplinary_Action.png/revision/latest?cb=20180925132318",
+        "rarity": "Strange",
+        "category": "weapons",
+        "altNames": ["Whip"]
+    },
+    {
+        "name": "Strange Disciplinary Action",
+        "image": "https://static.wikia.nocookie.net/tc2/images/2/2f/Disciplinary_Action.png/revision/latest?cb=20180925132318",
+        "rarity": "Strange",
+        "category": "weapons",
+        "altNames": ["Whip"]
     },
     {
         "_cosmeticsStart": "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
@@ -1549,6 +1569,12 @@
     {
         "name": "Strange Stainless Pot",
         "image": "https://static.wikia.nocookie.net/tc2/images/6/61/Stainless_Pot.png/revision/latest?cb=20240420132842",
+        "rarity": "Strange",
+        "category": "cosmetics"
+    },
+    {
+        "name": "Strange Team Beret",
+        "image": "https://static.wikia.nocookie.net/tc2/images/1/1b/The_Team_Beret.png/revision/latest?cb=20230301061046",
         "rarity": "Strange",
         "category": "cosmetics"
     },
