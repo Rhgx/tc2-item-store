@@ -276,5 +276,11 @@ document.addEventListener('DOMContentLoaded', () => {
         button.addEventListener('click', () => {
             playSound();
         });
+        
+   twemoji.parse(document.body, {
+            folder: 'svg',
+            ext: '.svg',
+            className: 'twemoji'
+        });         
     });
 }); 
