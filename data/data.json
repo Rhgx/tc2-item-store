@@ -343,6 +343,12 @@
         "category": "weapons"
     },
     {
+        "name": "Genuine Sticky Jumper",
+        "image": "https://static.wikia.nocookie.net/tc2/images/5/5d/Sticky_Jumper.png/",
+        "rarity": "Genuine",
+        "category": "weapons"
+    },
+    {
         "name": "Vintage Huntsman",
         "image": "https://static.wikia.nocookie.net/tc2/images/7/75/Huntsman.png/",
         "rarity": "Vintage",
