@@ -57,6 +57,12 @@
         "category": "weapons",
         "altNames": ["Disciplinary Action","Whip"]
     },
+        {
+        "name": "Collector's Gunslinger",
+        "image": "https://static.wikia.nocookie.net/tc2/images/c/c2/Gunslinger.png/",
+        "rarity": "Collector's",
+        "category": "weapons"
+    },
     {
         "name": "\"spoopy kritz\"",
         "image": "https://static.wikia.nocookie.net/tc2/images/d/d5/Kritzkrieg.png/",
@@ -657,24 +663,6 @@
     {
         "name": "Strange Flamethrower",
         "image": "https://static.wikia.nocookie.net/tc2/images/a/ad/Flamethrower.png/",
-        "rarity": "Strange",
-        "category": "weapons"
-    },
-    {
-        "name": "Strange Gunslinger",
-        "image": "https://static.wikia.nocookie.net/tc2/images/c/c2/Gunslinger.png/",
-        "rarity": "Strange",
-        "category": "weapons"
-    },
-    {
-        "name": "Strange Gunslinger",
-        "image": "https://static.wikia.nocookie.net/tc2/images/c/c2/Gunslinger.png/",
-        "rarity": "Strange",
-        "category": "weapons"
-    },
-    {
-        "name": "Strange Gunslinger",
-        "image": "https://static.wikia.nocookie.net/tc2/images/c/c2/Gunslinger.png/",
         "rarity": "Strange",
         "category": "weapons"
     },
@@ -1395,12 +1383,6 @@
     {
         "name": "Strange Builder's Brainguard",
         "image": "https://static.wikia.nocookie.net/tc2/images/4/47/Builder%27s_Brainguard.png/",
-        "rarity": "Strange",
-        "category": "cosmetics"
-    },
-    {
-        "name": "Strange Burger Boy",
-        "image": "https://static.wikia.nocookie.net/tc2/images/d/dc/Burger_Boy.png/",
         "rarity": "Strange",
         "category": "cosmetics"
     },
