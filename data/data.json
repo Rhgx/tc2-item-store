@@ -715,12 +715,6 @@
         "category": "weapons"
     },
     {
-        "name": "Strange Kritzkrieg",
-        "image": "https://static.wikia.nocookie.net/tc2/images/d/d5/Kritzkrieg.png/",
-        "rarity": "Strange",
-        "category": "weapons"
-    },
-    {
         "name": "Strange Lupara DB",
         "image": "https://static.wikia.nocookie.net/tc2/images/d/d1/Lupara_DB_render.png/",
         "rarity": "Strange",
@@ -1483,6 +1477,12 @@
         "category": "cosmetics"
     },
     {
+        "name": "Strange Last Bastion",
+        "image": "https://static.wikia.nocookie.net/tc2/images/d/d8/Last_Bastion.png/",
+        "rarity": "Strange",
+        "category": "cosmetics"
+    },
+        {
         "name": "Strange Last Bastion",
         "image": "https://static.wikia.nocookie.net/tc2/images/d/d8/Last_Bastion.png/",
         "rarity": "Strange",
