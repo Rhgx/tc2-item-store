@@ -367,7 +367,7 @@
         "category": "weapons",
         "altNames": ["Bat"]
     },
-        {
+    {
         "name": "Strange Bat",
         "image": "https://static.wikia.nocookie.net/tc2/images/a/ad/Bat.png/",
         "rarity": "Strange",
@@ -594,7 +594,7 @@
         "rarity": "Strange",
         "category": "weapons"
     },
-        {
+    {
         "name": "Strange Crowbar",
         "image": "https://static.wikia.nocookie.net/tc2/images/c/c0/Crowbar.png/",
         "rarity": "Strange",
