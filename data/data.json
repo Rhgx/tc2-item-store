@@ -417,6 +417,12 @@
     "altNames": ["Maverick"]
   },
   {
+    "name": "Strange Knife",
+    "image": "https://static.wikia.nocookie.net/tc2/images/5/58/Knife.png/",
+    "rarity": "Collector's",
+    "category": "weapons"
+  },
+  {
     "name": "\"🔥\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/a/ad/Flamethrower.png/",
     "rarity": "Strange",
@@ -499,6 +505,18 @@
   {
     "name": "Strange Brash Burger",
     "image": "https://static.wikia.nocookie.net/tc2/images/7/75/Brash_Burger.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+  {
+    "name": "Strange Broken Sword",
+    "image": "https://static.wikia.nocookie.net/tc2/images/b/b7/Broken_Sword.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+  {
+    "name": "Strange Broken Sword",
+    "image": "https://static.wikia.nocookie.net/tc2/images/b/b7/Broken_Sword.png/",
     "rarity": "Strange",
     "category": "weapons"
   },
