@@ -436,28 +436,10 @@
     "rarity": "Strange",
     "category": "weapons"
   },
-  {
-    "name": "Strange Amputator",
+    {
+    "name": "Collector's Amputator",
     "image": "https://static.wikia.nocookie.net/tc2/images/c/ca/Amputator.png/",
-    "rarity": "Strange",
-    "category": "weapons"
-  },
-  {
-    "name": "Strange Amputator",
-    "image": "https://static.wikia.nocookie.net/tc2/images/c/ca/Amputator.png/",
-    "rarity": "Strange",
-    "category": "weapons"
-  },
-  {
-    "name": "Strange Amputator",
-    "image": "https://static.wikia.nocookie.net/tc2/images/c/ca/Amputator.png/",
-    "rarity": "Strange",
-    "category": "weapons"
-  },
-  {
-    "name": "Strange Amputator",
-    "image": "https://static.wikia.nocookie.net/tc2/images/c/ca/Amputator.png/",
-    "rarity": "Strange",
+    "rarity": "Collector's",
     "category": "weapons"
   },
   {
@@ -1633,6 +1615,12 @@
   {
     "name": "Strange Trilby Thriller",
     "image": "https://static.wikia.nocookie.net/tc2/images/0/06/Trilby_Thriller.png/",
+    "rarity": "Strange",
+    "category": "cosmetics"
+  },
+  {
+    "name": "Strange Winter Woodsman",
+    "image": "https://static.wikia.nocookie.net/tc2/images/c/c0/Winter_Woodsman.png/",
     "rarity": "Strange",
     "category": "cosmetics"
   },
