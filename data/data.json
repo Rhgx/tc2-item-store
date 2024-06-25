@@ -373,6 +373,12 @@
     "rarity"  : "Strange"                                                   ,
     "category": "weapons"
   },
+    {
+    "name"    : "Strange Bat"                                               ,
+    "image"   : "https://static.wikia.nocookie.net/tc2/images/a/ad/Bat.png/",
+    "rarity"  : "Strange"                                                   ,
+    "category": "weapons"
+  },
   {
     "name": "\"Do not look up lego piece 26047\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/e/ec/Syringe_Crossbow.png/",
@@ -884,6 +890,12 @@
     "category": "weapons"
   },
   {
+    "name": "Strange Shotgun",
+    "image": "https://static.wikia.nocookie.net/tc2/images/c/c6/Shotgun_render.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+    {
     "name": "Strange Shotgun",
     "image": "https://static.wikia.nocookie.net/tc2/images/c/c6/Shotgun_render.png/",
     "rarity": "Strange",
@@ -2646,6 +2658,12 @@
     "category": "other"
   },
   {
+    "name": "Team Spirit Paint Can",
+    "image": "https://static.wikia.nocookie.net/tc2/images/8/8c/Team_Spirit.png/",
+    "rarity": "Normal",
+    "category": "other"
+  },
+    {
     "name": "Team Spirit Paint Can",
     "image": "https://static.wikia.nocookie.net/tc2/images/8/8c/Team_Spirit.png/",
     "rarity": "Normal",
