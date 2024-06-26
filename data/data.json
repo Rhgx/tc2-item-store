@@ -533,6 +533,12 @@
     "category": "weapons"
   },
   {
+    "name": "Strange Broken Sword",
+    "image": "https://static.wikia.nocookie.net/tc2/images/b/b7/Broken_Sword.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+  {
     "name": "Strange Classic",
     "image": "https://static.wikia.nocookie.net/tc2/images/5/57/Classic.png/",
     "rarity": "Strange",
