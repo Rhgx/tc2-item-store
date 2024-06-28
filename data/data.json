@@ -36,6 +36,14 @@
     "altNames": ["Minigun"]
   },
   {
+    "name": "\"Dave\"",
+    "image": "https://static.wikia.nocookie.net/tc2/images/a/a2/Pistol.png",
+    "rarity": "Collector's",
+    "category": "weapons",
+    "altNames": ["Pistol"],
+    "not-tradeable": true
+  },
+  {
     "name": "\"Collector's Edition iPhone\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/7/76/Sapper.png/",
     "rarity": "Collector's",
@@ -964,6 +972,12 @@
   {
     "name": "Strange Vaccinator",
     "image": "https://static.wikia.nocookie.net/tc2/images/2/2d/Vaccinator_render.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+    {
+    "name": "Strange Widowmaker",
+    "image": "https://static.wikia.nocookie.net/tc2/images/4/44/Widowmaker.png/",
     "rarity": "Strange",
     "category": "weapons"
   },
