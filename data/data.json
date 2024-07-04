@@ -5,42 +5,54 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/e/e2/Silenced_Pistol.png",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Silenced Pistol"]
+    "altNames": [
+      "Silenced Pistol"
+    ]
   },
   {
     "name": "\"=\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/5/58/Knife.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Knife"]
+    "altNames": [
+      "Knife"
+    ]
   },
   {
     "name": "\"Aerial Bomber\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/5/51/Ambassador.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Ambassador"]
+    "altNames": [
+      "Ambassador"
+    ]
   },
   {
     "name": "\"and\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/7/7c/Wrench.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Wrench"]
+    "altNames": [
+      "Wrench"
+    ]
   },
   {
     "name": "\"Boonie Blaster\"",
     "image": "https://i.imgur.com/4Xecd7M.png",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Minigun"]
+    "altNames": [
+      "Minigun"
+    ]
   },
   {
     "name": "\"Dave\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/a/a2/Pistol.png",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Pistol"],
+    "altNames": [
+      "Pistol"
+    ],
     "not-tradeable": true
   },
   {
@@ -48,14 +60,18 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/7/76/Sapper.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Sapper"]
+    "altNames": [
+      "Sapper"
+    ]
   },
   {
     "name": "\"Cow Mangler my beloved ❤️\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/a/a1/Cow_Mangler_5000.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Cow Mangler 5000"],
+    "altNames": [
+      "Cow Mangler 5000"
+    ],
     "not-tradeable": true
   },
   {
@@ -63,7 +79,10 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/2/2f/Disciplinary_Action.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Disciplinary Action", "Whip"]
+    "altNames": [
+      "Disciplinary Action",
+      "Whip"
+    ]
   },
   {
     "name": "Collector's Gunslinger",
@@ -72,11 +91,19 @@
     "category": "weapons"
   },
   {
+    "name": "Collector's Blood Doctor",
+    "image": "https://static.wikia.nocookie.net/tc2/images/c/cd/Blood_Doctor_render.png/",
+    "rarity": "Collector's",
+    "category": "weapons"
+  },
+  {
     "name": "\"spoopy kritz\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/d/d5/Kritzkrieg.png/",
     "rarity": "Haunted",
     "category": "weapons",
-    "altNames": ["Kritzkrieg"],
+    "altNames": [
+      "Kritzkrieg"
+    ],
     "not-tradeable": true
   },
   {
@@ -84,70 +111,90 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/5/5d/Sticky_Jumper.png/",
     "rarity": "Genuine",
     "category": "weapons",
-    "altNames": ["Sticky Jumper"]
+    "altNames": [
+      "Sticky Jumper"
+    ]
   },
   {
     "name": "\"Lever Levered Levereage Lever Lever Shotgun\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/7/7a/Lever_Shotgun_render.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Lever Shotgun"]
+    "altNames": [
+      "Lever Shotgun"
+    ]
   },
   {
     "name": "\"Pirovideo\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/d/da/Holy_Mackerel.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Holy Mackerel"]
+    "altNames": [
+      "Holy Mackerel"
+    ]
   },
   {
     "name": "\"Join the hivemind.\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/0/0b/G-Bomb.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["G-Bomb"]
+    "altNames": [
+      "G-Bomb"
+    ]
   },
   {
     "name": "\"meet the j\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/a/a0/Dentist%27s_Delight.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Dentist's Delight"]
+    "altNames": [
+      "Dentist's Delight"
+    ]
   },
   {
     "name": "\"pew pew\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/2/20/Personal_Death_Ray.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Personal Death Ray"]
+    "altNames": [
+      "Personal Death Ray"
+    ]
   },
   {
     "name": "\"Punch-out!! on the Nintendo Wii\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/3/3b/Boxing_Gloves.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Boxing Gloves"]
+    "altNames": [
+      "Boxing Gloves"
+    ]
   },
   {
     "name": "\"Rock's Own Collector's Crankestein\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/f/f6/Crankenstein.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Crankestein"]
+    "altNames": [
+      "Crankestein"
+    ]
   },
   {
     "name": "\"the\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/b/b7/Broken_Sword.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Broken Sword"]
+    "altNames": [
+      "Broken Sword"
+    ]
   },
   {
     "name": "\"this 300ms eyelander is fire 🗣️🔥\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/c/cf/Sniper_Rifle.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Sniper Rifle"],
+    "altNames": [
+      "Sniper Rifle"
+    ],
     "not-tradeable": true
   },
   {
@@ -155,7 +202,9 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/c/c6/Shotgun_render.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Shotgun"],
+    "altNames": [
+      "Shotgun"
+    ],
     "not-tradeable": true
   },
   {
@@ -163,28 +212,36 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/c/c2/Iron_Force.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Iron Force"]
+    "altNames": [
+      "Iron Force"
+    ]
   },
   {
     "name": "\"we got prime\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/c/cf/Interceptor.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Interceptor"]
+    "altNames": [
+      "Interceptor"
+    ]
   },
   {
     "name": "\"what the dog doin?\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/d/d1/Lupara_DB_render.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Lupara DB"]
+    "altNames": [
+      "Lupara DB"
+    ]
   },
   {
     "name": "\"⭐\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/7/7f/Original.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Original"],
+    "altNames": [
+      "Original"
+    ],
     "not-tradeable": true
   },
   {
@@ -192,7 +249,9 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/f/fd/Direct_Hit.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Direct Hit"],
+    "altNames": [
+      "Direct Hit"
+    ],
     "not-tradeable": true
   },
   {
@@ -200,7 +259,9 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/5/57/Dire_Donut.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Dire Donut"],
+    "altNames": [
+      "Dire Donut"
+    ],
     "not-tradeable": true
   },
   {
@@ -208,7 +269,9 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/6/67/Grenade_Launcher.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Grenade Launcher"],
+    "altNames": [
+      "Grenade Launcher"
+    ],
     "not-tradeable": true
   },
   {
@@ -240,11 +303,19 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/0/0a/Fire_Extinguisher.png/",
     "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Fire Extinguisher"]
+    "altNames": [
+      "Fire Extinguisher"
+    ]
   },
   {
     "name": "Collector's Model IV",
     "image": "https://static.wikia.nocookie.net/tc2/images/d/d0/Model_IV.png/",
+    "rarity": "Collector's",
+    "category": "weapons"
+  },
+  {
+    "name": "Collector's Phlogistinator",
+    "image": "https://static.wikia.nocookie.net/tc2/images/1/15/Phlogistinator.png/",
     "rarity": "Collector's",
     "category": "weapons"
   },
@@ -373,18 +444,20 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/a/ad/Bat.png/",
     "rarity": "Strange",
     "category": "weapons",
-    "altNames": ["Bat"]
+    "altNames": [
+      "Bat"
+    ]
   },
   {
-    "name"    : "Strange Bat"                                               ,
-    "image"   : "https://static.wikia.nocookie.net/tc2/images/a/ad/Bat.png/",
-    "rarity"  : "Strange"                                                   ,
+    "name": "Strange Bat",
+    "image": "https://static.wikia.nocookie.net/tc2/images/a/ad/Bat.png/",
+    "rarity": "Strange",
     "category": "weapons"
   },
-    {
-    "name"    : "Strange Bat"                                               ,
-    "image"   : "https://static.wikia.nocookie.net/tc2/images/a/ad/Bat.png/",
-    "rarity"  : "Strange"                                                   ,
+  {
+    "name": "Strange Bat",
+    "image": "https://static.wikia.nocookie.net/tc2/images/a/ad/Bat.png/",
+    "rarity": "Strange",
     "category": "weapons"
   },
   {
@@ -392,21 +465,27 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/e/ec/Syringe_Crossbow.png/",
     "rarity": "Strange",
     "category": "weapons",
-    "altNames": ["Syringe Crossbow"]
+    "altNames": [
+      "Syringe Crossbow"
+    ]
   },
   {
     "name": "\"La Caution - The Laser Dance Song\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/e/e0/50-AE.png/",
     "rarity": "Strange",
     "category": "weapons",
-    "altNames": ["50-AE"]
+    "altNames": [
+      "50-AE"
+    ]
   },
   {
     "name": "\"Mac'n 🧀\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/5/57/MAC-10_render.png/",
     "rarity": "Strange",
     "category": "weapons",
-    "altNames": ["MAC-10"],
+    "altNames": [
+      "MAC-10"
+    ],
     "not-tradeable": true
   },
   {
@@ -414,21 +493,27 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/1/1f/Fists_render.png/",
     "rarity": "Strange",
     "category": "weapons",
-    "altNames": ["Fists"]
+    "altNames": [
+      "Fists"
+    ]
   },
   {
     "name": "\"Steve\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/6/62/Tomislav.png/",
     "rarity": "Strange",
     "category": "weapons",
-    "altNames": ["Tomislav"]
+    "altNames": [
+      "Tomislav"
+    ]
   },
   {
     "name": "\"TUPAC Balance Update\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/7/73/Maverick.png/",
-    "rarity": "Strange",
+    "rarity": "Collector's",
     "category": "weapons",
-    "altNames": ["Maverick"]
+    "altNames": [
+      "Maverick"
+    ]
   },
   {
     "name": "Strange Knife",
@@ -441,13 +526,15 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/a/ad/Flamethrower.png/",
     "rarity": "Strange",
     "category": "weapons",
-    "altNames": ["Flamethrower"],
+    "altNames": [
+      "Flamethrower"
+    ],
     "not-tradeable": true
   },
   {
-    "name"    : "Strange 50-AE"                                               ,
-    "image"   : "https://static.wikia.nocookie.net/tc2/images/e/e0/50-AE.png/",
-    "rarity"  : "Strange"                                                     ,
+    "name": "Strange 50-AE",
+    "image": "https://static.wikia.nocookie.net/tc2/images/e/e0/50-AE.png/",
+    "rarity": "Strange",
     "category": "weapons"
   },
   {
@@ -456,31 +543,13 @@
     "rarity": "Strange",
     "category": "weapons"
   },
-    {
+  {
     "name": "Collector's Amputator",
     "image": "https://static.wikia.nocookie.net/tc2/images/c/ca/Amputator.png/",
     "rarity": "Collector's",
     "category": "weapons"
   },
   {
-    "name": "Strange Blood Doctor",
-    "image": "https://static.wikia.nocookie.net/tc2/images/c/cd/Blood_Doctor_render.png/",
-    "rarity": "Strange",
-    "category": "weapons"
-  },
-  {
-    "name": "Strange Blood Doctor",
-    "image": "https://static.wikia.nocookie.net/tc2/images/c/cd/Blood_Doctor_render.png/",
-    "rarity": "Strange",
-    "category": "weapons"
-  },
-  {
-    "name": "Strange Blood Doctor",
-    "image": "https://static.wikia.nocookie.net/tc2/images/c/cd/Blood_Doctor_render.png/",
-    "rarity": "Strange",
-    "category": "weapons"
-  },
-  {
     "name": "Strange Boxing Gloves",
     "image": "https://static.wikia.nocookie.net/tc2/images/3/3b/Boxing_Gloves.png/",
     "rarity": "Strange",
@@ -489,6 +558,12 @@
   {
     "name": "Strange Boxing Gloves",
     "image": "https://static.wikia.nocookie.net/tc2/images/3/3b/Boxing_Gloves.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+  {
+    "name": "Strange Brash Burger",
+    "image": "https://static.wikia.nocookie.net/tc2/images/7/75/Brash_Burger.png/",
     "rarity": "Strange",
     "category": "weapons"
   },
@@ -591,6 +666,30 @@
   {
     "name": "Strange Cow Mangler 5000",
     "image": "https://static.wikia.nocookie.net/tc2/images/a/a1/Cow_Mangler_5000.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+  {
+    "name": "Strange Grenade Launcher",
+    "image": "https://static.wikia.nocookie.net/tc2/images/6/67/Grenade_Launcher.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+  {
+    "name": "Strange Grenade Launcher",
+    "image": "https://static.wikia.nocookie.net/tc2/images/6/67/Grenade_Launcher.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+  {
+    "name": "Strange Grenade Launcher",
+    "image": "https://static.wikia.nocookie.net/tc2/images/6/67/Grenade_Launcher.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+  {
+    "name": "Strange Lever Shotgun",
+    "image": "https://static.wikia.nocookie.net/tc2/images/7/7a/Lever_Shotgun_render.png/",
     "rarity": "Strange",
     "category": "weapons"
   },
@@ -609,6 +708,12 @@
   {
     "name": "Strange Crowbar",
     "image": "https://static.wikia.nocookie.net/tc2/images/c/c0/Crowbar.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+  {
+    "name": "Strange Deathblow",
+    "image": "https://static.wikia.nocookie.net/tc2/images/b/b1/Deathblow.png/",
     "rarity": "Strange",
     "category": "weapons"
   },
@@ -675,6 +780,12 @@
   {
     "name": "Strange Battle Burrito",
     "image": "https://static.wikia.nocookie.net/tc2/images/e/ef/Battle_Burrito.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+  {
+    "name": "Strange Fire Extinguisher",
+    "image": "https://static.wikia.nocookie.net/tc2/images/0/0a/Fire_Extinguisher.png/",
     "rarity": "Strange",
     "category": "weapons"
   },
@@ -769,15 +880,21 @@
     "category": "weapons"
   },
   {
-    "name"    : "Strange M249"                                               ,
-    "image"   : "https://static.wikia.nocookie.net/tc2/images/9/96/M249.png/",
-    "rarity"  : "Strange"                                                    ,
+    "name": "Strange M249",
+    "image": "https://static.wikia.nocookie.net/tc2/images/9/96/M249.png/",
+    "rarity": "Strange",
     "category": "weapons"
   },
   {
-    "name"    : "Strange M249"                                               ,
-    "image"   : "https://static.wikia.nocookie.net/tc2/images/9/96/M249.png/",
-    "rarity"  : "Strange"                                                    ,
+    "name": "Strange M249",
+    "image": "https://static.wikia.nocookie.net/tc2/images/9/96/M249.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+  {
+    "name": "Strange M249",
+    "image": "https://static.wikia.nocookie.net/tc2/images/9/96/M249.png/",
+    "rarity": "Strange",
     "category": "weapons"
   },
   {
@@ -835,9 +952,9 @@
     "category": "weapons"
   },
   {
-    "name"    : "Strange Minigun"                ,
-    "image"   : "https://i.imgur.com/4Xecd7M.png",
-    "rarity"  : "Strange"                        ,
+    "name": "Strange Minigun",
+    "image": "https://i.imgur.com/4Xecd7M.png",
+    "rarity": "Strange",
     "category": "weapons"
   },
   {
@@ -898,9 +1015,9 @@
     "not-tradeable": true
   },
   {
-    "name"    : "Strange Saw"                                               ,
-    "image"   : "https://static.wikia.nocookie.net/tc2/images/0/0a/Saw.png/",
-    "rarity"  : "Strange"                                                   ,
+    "name": "Strange Saw",
+    "image": "https://static.wikia.nocookie.net/tc2/images/0/0a/Saw.png/",
+    "rarity": "Strange",
     "category": "weapons"
   },
   {
@@ -909,7 +1026,7 @@
     "rarity": "Strange",
     "category": "weapons"
   },
-    {
+  {
     "name": "Strange Shotgun",
     "image": "https://static.wikia.nocookie.net/tc2/images/c/c6/Shotgun_render.png/",
     "rarity": "Strange",
@@ -930,12 +1047,6 @@
   {
     "name": "Strange Silenced Pistol",
     "image": "https://static.wikia.nocookie.net/tc2/images/e/e2/Silenced_Pistol.png",
-    "rarity": "Strange",
-    "category": "weapons"
-  },
-  {
-    "name": "Strange Sniper Rifle",
-    "image": "https://static.wikia.nocookie.net/tc2/images/c/cf/Sniper_Rifle.png/",
     "rarity": "Strange",
     "category": "weapons"
   },
@@ -975,7 +1086,7 @@
     "rarity": "Strange",
     "category": "weapons"
   },
-    {
+  {
     "name": "Strange Widowmaker",
     "image": "https://static.wikia.nocookie.net/tc2/images/4/44/Widowmaker.png/",
     "rarity": "Strange",
@@ -992,14 +1103,18 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/2/2f/Disciplinary_Action.png/",
     "rarity": "Strange",
     "category": "weapons",
-    "altNames": ["Whip"]
+    "altNames": [
+      "Whip"
+    ]
   },
   {
     "name": "Strange Disciplinary Action",
     "image": "https://static.wikia.nocookie.net/tc2/images/2/2f/Disciplinary_Action.png/",
     "rarity": "Strange",
     "category": "weapons",
-    "altNames": ["Whip"]
+    "altNames": [
+      "Whip"
+    ]
   },
   {
     "_cosmeticsStart": "🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩",
@@ -1007,14 +1122,18 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/9/99/Cowboy_Hat.png/",
     "rarity": "Collector's",
     "category": "cosmetics",
-    "altNames": ["Cowboy Hat"]
+    "altNames": [
+      "Cowboy Hat"
+    ]
   },
   {
     "name": "\"Burger King Employee\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/d/dc/Burger_Boy.png/",
     "rarity": "Collector's",
     "category": "cosmetics",
-    "altNames": ["Burger Boy"]
+    "altNames": [
+      "Burger Boy"
+    ]
   },
   {
     "name": "Collector's Last Bastion",
@@ -1028,7 +1147,9 @@
     "rarity": "Unusual",
     "category": "cosmetics",
     "unusual": "Burning",
-    "altNames": ["Gas Hazmask"],
+    "altNames": [
+      "Gas Hazmask"
+    ],
     "not-tradeable": true
   },
   {
@@ -1037,7 +1158,9 @@
     "rarity": "Unusual",
     "category": "cosmetics",
     "unusual": "Anarchy Flash",
-    "altNames": ["Wonder Worker"]
+    "altNames": [
+      "Wonder Worker"
+    ]
   },
   {
     "name": "Epic Unusual Cassels Tilt",
@@ -1060,7 +1183,9 @@
     "image": "https://static.wikia.nocookie.net/tc2/images/0/06/Trilby_Thriller.png/",
     "rarity": "Collector's",
     "category": "cosmetics",
-    "altNames": ["Trilby Thriller"]
+    "altNames": [
+      "Trilby Thriller"
+    ]
   },
   {
     "name": "Collector's Aces Hight",
@@ -1237,9 +1362,9 @@
     "category": "cosmetics"
   },
   {
-    "name"    : "Vintage HJW"                                               ,
-    "image"   : "https://static.wikia.nocookie.net/tc2/images/8/87/HJW.png/",
-    "rarity"  : "Vintage"                                                   ,
+    "name": "Vintage HJW",
+    "image": "https://static.wikia.nocookie.net/tc2/images/8/87/HJW.png/",
+    "rarity": "Vintage",
     "category": "cosmetics"
   },
   {
@@ -1395,6 +1520,12 @@
   {
     "name": "Strange Beesy Entomologist",
     "image": "https://static.wikia.nocookie.net/tc2/images/6/6a/Beesy_Entomologist.png/",
+    "rarity": "Strange",
+    "category": "cosmetics"
+  },
+  {
+    "name": "Strange Big Bruncher",
+    "image": "https://static.wikia.nocookie.net/tc2/images/c/cb/Big_Bruncher.png/",
     "rarity": "Strange",
     "category": "cosmetics"
   },
@@ -1623,6 +1754,18 @@
   {
     "name": "Strange Stainless Pot",
     "image": "https://static.wikia.nocookie.net/tc2/images/6/61/Stainless_Pot.png/",
+    "rarity": "Strange",
+    "category": "cosmetics"
+  },
+  {
+    "name": "Strange Cold Shoulder",
+    "image": "https://static.wikia.nocookie.net/tc2/images/4/49/Cold_Treatment.png/",
+    "rarity": "Strange",
+    "category": "cosmetics"
+  },
+  {
+    "name": "Strange Cold Shoulder",
+    "image": "https://static.wikia.nocookie.net/tc2/images/4/49/Cold_Treatment.png/",
     "rarity": "Strange",
     "category": "cosmetics"
   },
@@ -2077,9 +2220,9 @@
     "category": "cosmetics"
   },
   {
-    "name"    : "HJW"                                                       ,
-    "image"   : "https://static.wikia.nocookie.net/tc2/images/8/87/HJW.png/",
-    "rarity"  : "Unique"                                                    ,
+    "name": "HJW",
+    "image": "https://static.wikia.nocookie.net/tc2/images/8/87/HJW.png/",
+    "rarity": "Unique",
     "category": "cosmetics"
   },
   {
@@ -2203,9 +2346,9 @@
     "category": "cosmetics"
   },
   {
-    "name"    : "Neek"                                                       ,
-    "image"   : "https://static.wikia.nocookie.net/tc2/images/a/a6/Neek.png/",
-    "rarity"  : "Unique"                                                     ,
+    "name": "Neek",
+    "image": "https://static.wikia.nocookie.net/tc2/images/a/a6/Neek.png/",
+    "rarity": "Unique",
     "category": "cosmetics"
   },
   {
@@ -2683,7 +2826,7 @@
     "rarity": "Normal",
     "category": "other"
   },
-    {
+  {
     "name": "Team Spirit Paint Can",
     "image": "https://static.wikia.nocookie.net/tc2/images/8/8c/Team_Spirit.png/",
     "rarity": "Normal",
@@ -2708,9 +2851,9 @@
     "category": "other"
   },
   {
-    "name"    : "Pearl Paint Can"                                             ,
-    "image"   : "https://static.wikia.nocookie.net/tc2/images/7/73/Pearl.png/",
-    "rarity"  : "Normal"                                                      ,
+    "name": "Pearl Paint Can",
+    "image": "https://static.wikia.nocookie.net/tc2/images/7/73/Pearl.png/",
+    "rarity": "Normal",
     "category": "other"
   }
 ]
