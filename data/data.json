@@ -427,6 +427,18 @@
     "rarity": "Genuine",
     "category": "weapons"
   },
+   {
+    "name": "Genuine Scythe for Sore Eyes",
+    "image": "https://static.wikia.nocookie.net/tc2/images/c/c2/Scythe_for_Sore_Eyes.png",
+    "rarity": "Genuine",
+    "category": "weapons"
+  },
+   {
+    "name": "Genuine Shadow Blessing",
+    "image": "https://static.wikia.nocookie.net/tc2/images/9/9e/Shadow_Blessing.png",
+    "rarity": "Genuine",
+    "category": "weapons"
+  },
   {
     "name": "Vintage Huntsman",
     "image": "https://static.wikia.nocookie.net/tc2/images/7/75/Huntsman.png/",
@@ -468,6 +480,12 @@
     "altNames": [
       "Syringe Crossbow"
     ]
+  },
+    {
+    "name": "Strange Syringe Crossbow",
+    "image": "https://static.wikia.nocookie.net/tc2/images/e/ec/Syringe_Crossbow.png/",
+    "rarity": "Strange",
+    "category": "weapons",
   },
   {
     "name": "\"La Caution - The Laser Dance Song\"",
@@ -989,6 +1007,12 @@
     "category": "weapons"
   },
   {
+    "name": "Strange Rocket Launcher",
+    "image": "https://static.wikia.nocookie.net/tc2/images/d/d0/Rocket_Launcher_render.png/",
+    "rarity": "Strange",
+    "category": "weapons"
+  },
+    {
     "name": "Strange Rocket Launcher",
     "image": "https://static.wikia.nocookie.net/tc2/images/d/d0/Rocket_Launcher_render.png/",
     "rarity": "Strange",
@@ -1812,27 +1836,9 @@
     "category": "cosmetics"
   },
   {
-    "name": "Strange Winter Woodsman",
+    "name": "Collector's Winter Woodsman",
     "image": "https://static.wikia.nocookie.net/tc2/images/c/c0/Winter_Woodsman.png/",
-    "rarity": "Strange",
-    "category": "cosmetics"
-  },
-  {
-    "name": "Strange Winter Woodsman",
-    "image": "https://static.wikia.nocookie.net/tc2/images/c/c0/Winter_Woodsman.png/",
-    "rarity": "Strange",
-    "category": "cosmetics"
-  },
-  {
-    "name": "Strange Winter Woodsman",
-    "image": "https://static.wikia.nocookie.net/tc2/images/c/c0/Winter_Woodsman.png/",
-    "rarity": "Strange",
-    "category": "cosmetics"
-  },
-  {
-    "name": "Strange Winter Woodsman",
-    "image": "https://static.wikia.nocookie.net/tc2/images/c/c0/Winter_Woodsman.png/",
-    "rarity": "Strange",
+    "rarity": "Collector's",
     "category": "cosmetics"
   },
   {
