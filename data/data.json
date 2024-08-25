@@ -499,7 +499,7 @@
   {
     "name": "\"Mac'n 🧀\"",
     "image": "https://static.wikia.nocookie.net/tc2/images/5/57/MAC-10_render.png/",
-    "rarity": "Strange",
+    "rarity": "Collector's",
     "category": "weapons",
     "altNames": [
       "MAC-10"
@@ -916,18 +916,6 @@
     "category": "weapons"
   },
   {
-    "name": "Strange MAC-10",
-    "image": "https://static.wikia.nocookie.net/tc2/images/5/57/MAC-10_render.png/",
-    "rarity": "Strange",
-    "category": "weapons"
-  },
-  {
-    "name": "Strange MAC-10",
-    "image": "https://static.wikia.nocookie.net/tc2/images/0/0c/Machete.png/",
-    "rarity": "Strange",
-    "category": "weapons"
-  },
-  {
     "name": "Strange Maxine",
     "image": "https://static.wikia.nocookie.net/tc2/images/f/f8/Maxine.png/",
     "rarity": "Strange",
@@ -1219,7 +1207,7 @@
   },
   {
     "name": "Collector's Broken Rank",
-    "image": "https://static.wikia.nocookie.net/tc2/images/3/36/Broken_Rank2023.png/",
+    "image": "https://static.wikia.nocookie.net/tc2/images/9/9d/Broken_Rank.png",
     "rarity": "Collector's",
     "category": "cosmetics"
   },
